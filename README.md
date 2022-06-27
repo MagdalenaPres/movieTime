@@ -16,8 +16,8 @@ MovieTime is a cinema website created for university classes.
 - Backend: **Spring Boot**
 - Database: **H2**
 - Styled with: Css and Scss
-
-Cinema hall was created using [Konva](https://konvajs.org/docs/react/index.html).
+- Website was designed by me using Adobe XD
+- Cinema hall was created using [Konva](https://konvajs.org/docs/react/index.html).
 
 ## **Authors**
 - Magdalena Preś
