@@ -1,0 +1,12 @@
+
+.title{
+    background: linear-gradient(to right, #27187F 0%, #27187F 50.6%, #758BFD 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    }
+    
+h1 {
+  font-size: 5vmin;
+  line-height: 0.9;
+}

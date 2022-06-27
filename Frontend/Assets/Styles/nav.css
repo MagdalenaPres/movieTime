@@ -1,0 +1,47 @@
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav ul li {
+  margin-inline: 40px;
+  margin-top: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  transition: all 0.5s ease-in-out;
+  position: relative;
+  color: #133B3A;
+  font-weight: 400;
+  float: left;
+}
+
+nav ul li:hover {
+  color: #081818;
+  font-weight: 400;
+}
+
+.nav-right{
+  float: right;
+}
+.nav-left{
+  float: left;
+}
+
+#b-logout{
+  text-decoration: none;
+  font-size: 18px;
+  transition: all 0.5s ease-in-out;
+  position: relative;
+  color: #133B3A;
+  font-weight: lighter;
+  float: left;
+  background-color: white;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.active{
+  font-weight: bold;
+}

@@ -1,0 +1,61 @@
+
+.container{
+    display: flex;
+}
+
+.movie-info{
+    margin-left: 70px;
+}
+.line{
+    margin-top: 32px;
+    margin-left: 60px;
+    border-left: 1px solid rgb(152, 152, 152);
+    height: 220px;
+}
+.seatsselection{
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.konva-seats{
+    display: flex;
+    justify-content: center;
+}
+.stage{
+    background-color: #f5f5f5;
+}
+.next-seats{
+    margin-top: 30%;
+    margin-left: 20px;
+}
+#b-next-seats{
+    background-color: #758BFD;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    font-size: 22px;
+    border-radius: 8px;
+}
+#seats-title{
+    margin-top: 36px;
+    font-size: 28px;
+    font-weight: 400;
+    max-width: 220px;
+}
+
+#seats-hour{
+    font-size: 18px;
+}
+
+#seats-day{
+    font-size: 18px;
+}
+
+#seats-city{
+    font-size: 18px;
+}
+#choose-seat-txt{
+    color: #8172D5;
+    font-size: 28px;
+    font-weight: bold;
+}

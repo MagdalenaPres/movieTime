@@ -1,0 +1,45 @@
+.container-ticketinfo{
+    display: flex;
+    justify-content: center;
+}
+
+.booking-movie{
+  margin-right: 70px;
+  font-size: 18px;
+  text-align: right;
+}
+.line-booking{
+    margin-top: 5px;
+    border-left: 1px solid rgb(152, 152, 152);
+    height: 250px;
+}
+.booking-seats{
+    margin-left: 70px;
+    font-size: 18px;
+}
+#booking-header{
+    font-weight: bold;
+    color: #758BFD;;
+}
+#seats-header{
+    font-weight: bold;
+    color: #758BFD;
+}
+#booking-confirm{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.booking-btn
+{
+    text-decoration: none;
+    color: #010101;
+    background-color: #758BFD;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    font-size: 22px;
+    border-radius: 8px; 
+    margin-inline: 40px;
+}

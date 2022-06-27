@@ -1,0 +1,32 @@
+.sliderimg{
+    width: 800px;
+    height: 500px;
+    object-fit: cover;
+}
+#img1{
+    width: 1300px;
+    height: 500px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+#img2{
+    width: 1300px;
+    height: 500px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+#img3{
+    width: 1300px;
+    height: 500px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.alice-carousel__prev-btn,
+.alice-carousel__next-btn {
+    visibility: hidden;
+}
+#items{
+    text-align: center;
+    justify-content: center;
+}

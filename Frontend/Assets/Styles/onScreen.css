@@ -1,0 +1,50 @@
+
+.on-screen{
+    background-color: #F2F5F8;
+}
+
+.calendar{
+    margin-top: 5px;
+    justify-content: center;
+    text-align: center;
+}
+#date-picker{
+    display: inline-block;
+    width:80px;
+    height:120px;
+    margin-top: 10px;
+}
+#picked-date{
+    display: inline-block;
+    width:150px;
+    height:60px;
+    margin-top: 30px;
+}
+
+.table-movies{
+    text-align: left;
+    overflow: hidden;
+    margin: 0 200px;
+    display: table;
+    padding: 0 0 8em 0;
+}
+.table-movies thead th{
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: left;
+    color: #F2F5F8;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-left:2%;
+    background-color: #F2F5F8;
+}
+.no-movies-title{
+    text-align: center;
+    font-size: 18px;
+    padding: 30px;
+}
+
+.link{
+    text-decoration: none;
+    color: #010101;
+}
